@@ -1,4 +1,4 @@
-![banner](https://github.com/lugomio/fotoblog/blob/master/assets/img/banner.png)
+![banner](https://github.com/lugomio/photoblog/blob/master/assets/img/banner.png)
 
 # PhotoBlog
 PhotoBlog is a simple photo gallery project proposed by Rocketseat Explorer and developed in HTML and CSS. The main goal of this project was to practice CSS grid layout concepts. It uses semantic tags and CSS variables.
